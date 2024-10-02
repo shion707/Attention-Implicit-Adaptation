@@ -30,4 +30,4 @@ Analysis Code
 Package requirement: https://www.mathworks.com/matlabcentral/fileexchange/37105-plot-spread-points-beeswarm-plot
 
 Exp1-6.m
-![image](https://github.com/user-attachments/assets/938f8e9b-960c-4120-952c-dda9ac760b1c)
+
