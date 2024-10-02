@@ -2,7 +2,7 @@
 
 Contact: tianhewang@berkeley.edu
 
-Data
+# Data
 
 Exp 1a: Exp1a_data
 Exp 1b: Exp1b_data 
@@ -25,7 +25,7 @@ Exp 6 AA->A/AB->B: Exp6_G1/ Exp6_G2/ Exp6_G3/ Exp6_G4
 Exp 6 AA->B/AB->A: Exp6_G01/ Exp6_G02/ Exp6_G03
 
 
-Analysis Code
+# Analysis Code
 
 Package requirement: https://www.mathworks.com/matlabcentral/fileexchange/37105-plot-spread-points-beeswarm-plot
 
