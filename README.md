@@ -28,7 +28,7 @@ Exp 6 AA->A/AB->B: Exp6_G1/ Exp6_G2/ Exp6_G3/ Exp6_G4
 Exp 6 AA->B/AB->A: Exp6_G01/ Exp6_G02/ Exp6_G03
 
 
-# Analysis Code
+# Code
 
 Package requirement: https://www.mathworks.com/matlabcentral/fileexchange/37105-plot-spread-points-beeswarm-plot
 
