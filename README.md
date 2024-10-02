@@ -1,4 +1,7 @@
 # Attention-Implicit-Adaptation
+# Attention defines the context for implicit sensorimotor adaptation
+Tianhe Wang, Jialin Li, Richard B Ivry
+https://doi.org/10.1101/2024.09.03.611108
 
 Contact: tianhewang@berkeley.edu
 
